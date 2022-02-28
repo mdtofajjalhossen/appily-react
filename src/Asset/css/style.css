@@ -866,8 +866,12 @@ font-family: 'Poppins', 'sans-serif';
 }
 /*================================max-width:1399px=========================================*/
 /*================================max-width:991px=========================================*/
-@media(max-width: 991px) {
 
+@media(max-width: 991px) {
+    .navbar-toggler:focus{
+        outline: 0;
+        box-shadow: none !important;
+    }
     .navBackground{
         background: #6934ff !important;
     }
