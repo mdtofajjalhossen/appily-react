@@ -879,7 +879,13 @@ font-family: 'Poppins', 'sans-serif';
         color: rgb(0 0 0) !important;
     }
     .navBackground{
-        background: #6934ff !important;
+        background: #1baaa0 !important;
+    }
+    .navItem {
+        padding: 12px 0 !important;
+    }
+    .navItemScroll {
+        padding: 8px 0 !important;
     }
 
     #responsive-navbar-nav{
