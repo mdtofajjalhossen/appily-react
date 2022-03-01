@@ -153,9 +153,9 @@ class Footer extends Component {
 
                                     <div className="footer_menu order-md-2">
                                         <ul>
-                                            <li><a href="#">SEO Marketing</a></li>
+                                            <li><a href="#">Web Design</a></li>
                                             <li><a href="#">Game Development</a></li>
-                                            <li><a href="#">StreamingWeb</a></li>
+                                            <li><a href="#">Web Development</a></li>
                                             <li><a href="#">Email Marketing</a></li>
                                         </ul>
                                     </div>
