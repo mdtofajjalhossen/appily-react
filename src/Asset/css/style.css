@@ -878,10 +878,10 @@ font-family: 'Poppins', 'sans-serif';
     .navbar-light .navbar-toggler {
         color: rgb(0 0 0) !important;
     }
+
     .navBackground{
         background: #6934ff !important;
     }
-
     #responsive-navbar-nav{
         text-align: left;
     }
